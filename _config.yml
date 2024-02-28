@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Akhil
+middle_name: V.
+last_name: Marayikkottu
+email: akhilmv@icloud.com
