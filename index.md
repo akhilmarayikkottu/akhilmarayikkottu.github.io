@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[image](https://github.com/akhilmarayikkottu/Probabilistic-Machine-Learning/blob/main/Images/Intro.png)
+[test](Images/image.jpeg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
