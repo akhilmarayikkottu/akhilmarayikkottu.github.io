@@ -27,7 +27,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ![test](Images/IMG_1839.PNG)
-[Link](https://akhilmarayikkottu.github.io/Linear_regression)
+
+[Bayesian approach to linear regression](https://akhilmarayikkottu.github.io/Linear_regression)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
