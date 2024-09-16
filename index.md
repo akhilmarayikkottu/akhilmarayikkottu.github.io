@@ -30,6 +30,8 @@ Syntax highlighted code block
 
 [Bayesian approach to linear regression](https://akhilmarayikkottu.github.io/Linear_regression)
 
+$t=\mathcal{N}$
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
