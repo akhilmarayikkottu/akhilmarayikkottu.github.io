@@ -1,3 +1,7 @@
+----
+layout: post
+----
+
 ## Welcome to GitHub Pages
 
 
