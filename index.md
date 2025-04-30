@@ -1,7 +1,3 @@
----
-layout: base
----
-
 ## Welcome to GitHub Pages
 
 
